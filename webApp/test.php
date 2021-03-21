@@ -3,7 +3,7 @@
 include("./functions.php");
 
 startd();
-echo(getinfo(););
+echo(getinfo());
 
 
 
